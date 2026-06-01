@@ -1,6 +1,6 @@
 # Lead Enrichment Pipeline
 
-> Company domain in → enriched, scored, outbound-ready leads out.
+Company domain in - enriched, scored, outbound ready leads out.
 
 A Python pipeline that takes a list of company domains, enriches them with firmographic data and decision-maker contacts, scores each lead against your ICP, and outputs a clean CSV ready for HubSpot import.
 
